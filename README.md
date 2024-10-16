@@ -1,4 +1,3 @@
-# [My Portfolio](https://my-portfolio.salimi.my) &middot; [![Author Salimi](https://img.shields.io/badge/Author-Salimi-%3C%3E)](https://www.linkedin.com/in/mohamad-salimi/)
 
 This is a simple personal portfolio site created using React.
 
@@ -26,20 +25,7 @@ npm run dev
 
 ## Demo
 
-Hosted privately on personal DigitalOcean Droplet. [Click here](https://my-portfolio.salimi.my) to visit.
+Hosted privately on personal DigitalOcean Droplet. [Click here](https://front-end-henna-gamma.vercel.app/) to visit.
 <br>
-Direct link: `https://my-portfolio.salimi.my`
+Direct link: (https://front-end-henna-gamma.vercel.app/)
 
-## Screenshots
-
-#### Homepage
-
-![Homepage](/screenshots/screenshot-top.png)
-
-#### About
-
-![About](/screenshots/screenshot-middle.png)
-
-#### Contact
-
-![Contact](/screenshots/screenshot-bottom.png)
